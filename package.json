@@ -1,0 +1,25 @@
+{
+  "name": "help-ui",
+  "version": "1.0.0",
+  "description": "the ui for help",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saint-lawal/help-ui.git"
+  },
+  "author": "Abisoye Oke-lawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saint-lawal/help-ui/issues"
+  },
+  "homepage": "https://github.com/Saint-lawal/help-ui#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10"
+  }
+}
